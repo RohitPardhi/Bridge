@@ -1,0 +1,12 @@
+{
+    "DataList": [
+        {
+            "key": "key1",
+            "data": "Data1  "
+        },
+        {
+            "key": "Key2",
+            "data": "Data2"
+        }
+    ]
+}
